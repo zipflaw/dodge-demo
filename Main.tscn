@@ -21,7 +21,7 @@ mob_scene = ExtResource( 3 )
 anchor_right = 1.0
 anchor_bottom = 1.0
 rect_rotation = -0.253985
-color = Color( 0.0970917, 0.269049, 0.394531, 1 )
+color = Color( 0.372549, 0.0980392, 0.396078, 1 )
 
 [node name="TextureRect" type="TextureRect" parent="."]
 visible = false
