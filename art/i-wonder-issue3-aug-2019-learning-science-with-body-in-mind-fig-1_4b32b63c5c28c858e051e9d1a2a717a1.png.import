@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/i-wonder-issue3-aug-2019-learning-science-with-body-in-mind-fig-1_4b32b63c5c28c858e051e9d1a2a717a1.png-4bdbf40281d1577e04ad09ab0ccf30d0.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://art/i-wonder-issue3-aug-2019-learning-science-with-body-in-mind-fig-1_4b32b63c5c28c858e051e9d1a2a717a1.png"
+dest_files=[ "res://.import/i-wonder-issue3-aug-2019-learning-science-with-body-in-mind-fig-1_4b32b63c5c28c858e051e9d1a2a717a1.png-4bdbf40281d1577e04ad09ab0ccf30d0.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
