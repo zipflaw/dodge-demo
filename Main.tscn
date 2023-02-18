@@ -18,13 +18,13 @@ script = ExtResource( 1 )
 mob_scene = ExtResource( 3 )
 
 [node name="ColorRect" type="ColorRect" parent="."]
+visible = false
 anchor_right = 1.0
 anchor_bottom = 1.0
 rect_rotation = -0.253985
 color = Color( 0.607843, 0.960784, 0.611765, 1 )
 
 [node name="TextureRect" type="TextureRect" parent="."]
-visible = false
 use_parent_material = true
 margin_left = -604.0
 margin_top = -555.0
